@@ -15,7 +15,7 @@ const resumeData = {
     about: {
         description: "Entry-level professional with practical experience in developing maintainable software solutions. Adept at problem-solving, debugging, and creating modular, scalable applications. Strong understanding of development best practices, code quality, and collaboration. Committed to contributing value while continuously improving technical skills.",
         highlights: [
-            "B.Tech in Computer Engineering (CGPA: 7.38)",
+            "B.Tech in Computer Engineering (CGPA: 7.63)",
             "3+ Hackathon participations including IIT Gandhinagar",
             "Certified in JavaScript and Python programming",
             "Expertise in Full-Stack Web Development"
@@ -83,9 +83,9 @@ const resumeData = {
         }
     ],
     education: [
-        { degree: "B.Tech in Computer Engineering", school: "RK University, Rajkot", year: "2023 - Present", details: "CGPA: 7.38 • Focus on Software Development & Web Technologies" },
-        { degree: "12th Grade (GSEB)", school: "Shree Shubham School", year: "2022 - 2023", details: "Percentage: 66.67%" },
-        { degree: "10th Grade (GSEB)", school: "Shree Palav Vidhya Dham", year: "2020 - 2021", details: "Percentage: 98.06% • Distinction" }
+        { degree: "B.Tech in Computer Engineering", school: "RK University, Rajkot", year: "2023 - Present", details: "CGPA: 7.63 • Focus on Software Development & Web Technologies" },
+        { degree: "12th Grade (GSEB)", school: "Shree Shubham School", year: "2022 - 2023", details: "Percentile: 66.67" },
+        { degree: "10th Grade (GSEB)", school: "Shree Palav Vidhya Dham", year: "2020 - 2021", details: "Percentile: 98.06 • Distinction" }
     ],
     certifications: [
         { degree: "The Complete JavaScript Developer", school: "Udemy", year: "Jan 2026", details: "Learn Modern JavaScript (ES6+) • Advanced Concepts" },
